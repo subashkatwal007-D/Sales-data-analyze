@@ -1,4 +1,4 @@
-# Sales-data-analyze
+
 # Superstore Sales Data Analysis
 
 This project analyzes the **Superstore dataset** to visualize sales, profits, discounts, and top customers.  
